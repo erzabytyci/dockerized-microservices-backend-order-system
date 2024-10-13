@@ -1,0 +1,7 @@
+com\example\order_service\OrderRepository.class
+com\example\order_service\OrderController.class
+com\example\order_service\ProductFeignClient.class
+com\example\order_service\dto\ProductDTO.class
+com\example\order_service\OrderServiceApplication.class
+com\example\order_service\model\Order.class
+com\example\order_service\OrderService.class
